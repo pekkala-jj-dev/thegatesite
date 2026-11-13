@@ -4,11 +4,5 @@ Viihteelliseen mediaan ja viihde elektroniikkaan suuntautuva staattinen sivusto 
 
 Sisällön hallinta kokeillaan Markdown tiedostojen avulla, tämä mahdollistaa sisällön ylläpidon ilman että tarvitsee mennä koodiin.
 Sisältöä voidaan hallita GitHubin kautta.
-Tietoturva asiat vielä työnalla.
+Hosted By GH pages
 
-# Pakki
-React
-Bootstrap
-Markdwon
-VSCode
-Netlify
