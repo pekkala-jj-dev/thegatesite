@@ -32,7 +32,7 @@ function Rnavbar() {
             
             <Nav.Link as={Link} to={"News"}>Uutiset</Nav.Link>
             <NavDropdown title="Gaming" id="basic-nav-dropdown">
-              <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
+              <NavDropdown.Item as={Link} to={"GameIns"}>Pelikatsaukset</NavDropdown.Item>
               <NavDropdown.Item href="#action/3.2">
                 Another action
               </NavDropdown.Item>

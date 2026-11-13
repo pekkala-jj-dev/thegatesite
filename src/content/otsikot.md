@@ -30,19 +30,13 @@ The First Descendant
 
 ---
 
-> #### Xbox vs Sony
-
-Xbox on päättäny tukea levy mediaa vielä toistaiseksi.
-Katso [artikkelimme](/News/playstation) mitä Xboxin tuore CEO Asha Sharma on ideoinut Xbox brandin tulevaisuuden suunnitelmiin.
-
-Tässä [Linkki](/News/playstation) uutiseen.
-
----
 
 > #### Stellar Blade Julkaistiin Switch 2 konsolille
 
 ShiftUp yhtiön menestyspeli on viimein saatavilla Nintendo Switch 2 lle
 ja se on tehty huolella!
+
+[Toimituksen artikkeli](/gaming/stellarbladeswitch)
 
 ---
 
