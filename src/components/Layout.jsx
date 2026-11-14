@@ -1,7 +1,8 @@
 import { useEffect } from 'react';
 import { Outlet, useLocation } from 'react-router-dom';
-import Sidebar from "./Sidebar";
 import Navbar from "./Navbar";
+import ScrollToTop from "./ScrollToTop";
+
 
 const Layout = () => {
   const location = useLocation();
@@ -16,12 +17,11 @@ const Layout = () => {
       <div style={{ display: "flex", minHeight: "100vh" }}>
         <main style={{ paddingLeft: "9px", paddingRight: "9px" , paddingTop : "2px" ,width: "100%"}}>
           <div>
+            <ScrollToTop />
             <Navbar />
             <Outlet />
           </div>
         </main>
-
-        {/* <Sidebar /> */}
       </div>
     </>
   );

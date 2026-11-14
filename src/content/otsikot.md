@@ -4,6 +4,7 @@
 ## Uutiset
 
 &nbsp;
+
 > #### Phantom Blade Zero on julkaistu
 
 Phantom Blade Zero niittää kunniaa ja menestystä, ennakkotilaukset ylittivät yli miljoonan!
@@ -12,6 +13,7 @@ Phantom BZ on saanut pelaajien arvosanan 9.0 niin Steamissa kuin Metacritic sivu
 
 > ###### S-GAME esittelee Phantom Blade Zeron, joka yhdistää klassista Wuxia-tarinankerrontaa ja jännittävää toimintaa Unreal Engine 5:llä. Pelaat Soulina, soturina, jolla on enää kuusikymmentäkuusi päivää elinaikaa. Torju salamurhaajia, selvitä maailmaa tuhoavia salaliittoja ja puolusta arvojasi hengelläsi.
 (Lainaus Steam kauppasivu)
+
 
 > #### Steam
 
@@ -25,11 +27,12 @@ Phantom BZ on saanut pelaajien arvosanan 9.0 niin Steamissa kuin Metacritic sivu
 
 **Sniper Elite 4** 5,99€
 
----
+
 # FreeToPlay !
 **Aion 2**
 
 **The First Descendant**
+
 
 > #### Stellar Blade Julkaistiin Switch 2 konsolille
 
@@ -38,6 +41,7 @@ ja se on tehty huolella!
 
 [Toimituksen artikkeli](/gaming/stellarbladeswitch)
 
+
 > #### Uutisia
 
-[Llisää uutisia](/News/uutiset2)
+[Lisää uutisia](/News/uutiset2)

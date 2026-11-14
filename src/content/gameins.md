@@ -2,13 +2,11 @@
 
 [comment]: <> (src/styles/artikkelien.css)
 
-
 &nbsp;
-
 
 id:stellarbladeswitch
 
->### Stellar Blade Switch 2 Complete Edition
+### Stellar Blade Switch 2 Complete Edition
 
 Stellar Blade julkaistiin alunperin Playstation 5 konsolille, suosion saavuttelemana peli julkaistiin myöhemmin myös PC:lle mm Steamin kautta.
 Stellar Blade on nyt viimein saapunut myös Nintendon Switch 2 käsikonsolille.
