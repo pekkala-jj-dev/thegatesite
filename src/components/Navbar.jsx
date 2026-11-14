@@ -8,8 +8,10 @@ import { Link } from "react-router-dom";
 
 function Rnavbar() {
   return (
-    <Navbar bg="light" data-bs-theme="light">
-      <Container>
+    <Navbar expand="lg"
+      style={{ backgroundColor: "rgba(145, 153, 162, 0.72)", boxShadow: "4px 4px 8px black", fontSize: "1.2rem" }}
+    >
+      <Container fluid>
         <Navbar.Brand as={Link} to="/">  {/*Käytä as={Link} ja to= (kohde) */}
           <div>
             <img

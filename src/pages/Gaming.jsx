@@ -36,15 +36,16 @@ const Gaming = () => {
   return (
     <div> 
 
-        {/* Muista luodd omat CSS määritykset jotka sopivat paremmin peli osioihin*/}
-
+        {/* Muista luoda omat CSS määritykset jotka sopivat paremmin peli osioihin*/}
+        
       <div className="gaming-articles1">
 
         <main>   {/* Näytettävät artikkelit*/}
           {currentArticle ? (
-            <article >
-
+            <article>
+             
               <ReactMarkdown rehypePlugins={[rehypeRaw]}>{currentArticle.content}</ReactMarkdown>  
+
             </article>  
           ) : (
             <div>
