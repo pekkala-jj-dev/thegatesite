@@ -1,8 +1,9 @@
 
 import ReactMarkdown from "react-markdown";
+import rehypeRaw from "rehype-raw";
 import { useParams, Link } from "react-router-dom";
 import gameinsMd from "../content/gameins.md?raw";
-import "../App.css"
+import "../styles/artikkelien.css";
 
 const Gaming = () => {
   const { articleId } = useParams();
@@ -33,29 +34,32 @@ const Gaming = () => {
   const currentArticle = articles.find((art) => art.id === targetId);
 
   return (
-    <div>
-      <div className="news-layout">
+    <div> 
 
-        <main className="news-content">
+        {/* Muista luodd omat CSS määritykset jotka sopivat paremmin peli osioihin*/}
+
+      <div className="gaming-articles1">
+
+        <main>   {/* Näytettävät artikkelit*/}
           {currentArticle ? (
-            <article className="news-section">
+            <article >
 
-              <ReactMarkdown>{currentArticle.content}</ReactMarkdown>
-            </article>
+              <ReactMarkdown rehypePlugins={[rehypeRaw]}>{currentArticle.content}</ReactMarkdown>  
+            </article>  
           ) : (
-            <div className="news-section">
+            <div>
               <h2>Artikkelia ei löytynyt!</h2>
               <p>Tunnisteella "{articleId}" ei löydetty uutista.</p>
               <Link to="/gaming">Palaa uusimpaan uutiseen</Link>
             </div>
           )}
-        </main>
+        </main>   {/* Näytettävät artikkelit*/}
 
         <aside className="news-sidebar">
 
           {/* Voidaaan ottaa käyttöön jos haluaa näyttää muut linkit tai vaihtoehtoisia esim liittyviä linkkejä*/}
 
-          <h3>Lisää katsauksia</h3>
+          <h1>Lisää katsauksia</h1>
           <ul>
             {articles.map((art) => (
               <li key={art.id}>
