@@ -13,23 +13,23 @@ Phantom BZ on saanut pelaajien arvosanan 9.0 niin Steamissa kuin Metacritic sivu
 > ###### S-GAME esittelee Phantom Blade Zeron, joka yhdistää klassista Wuxia-tarinankerrontaa ja jännittävää toimintaa Unreal Engine 5:llä. Pelaat Soulina, soturina, jolla on enää kuusikymmentäkuusi päivää elinaikaa. Torju salamurhaajia, selvitä maailmaa tuhoavia salaliittoja ja puolusta arvojasi hengelläsi.
 (Lainaus Steam kauppasivu)
 
-> #### Steamin alennuksia
+> #### Steam
 
-Euro Truck Simulator 2                          4,99€
+**Euro Truck Simulator 2** 4,99€
 
-The Elder Scrolls V: Skyrim Special Edition     7,99€
+**The Elder Scrolls V:Skyrim Special Edition** 7,99€
 
-Tom Clancy's Ghost Recon Wildlands              9,99€
+**Tom Clancy's Ghost Recon Wildlands** 9,99€
 
-Borderlands 2                                   2,99€
+**Borderlands 2** 2,99€
 
-Sniper Elite 4                                  5,99€
+**Sniper Elite 4** 5,99€
 
-# Pelaa ilmaiseksi! 
+---
+# FreeToPlay !
+**Aion 2**
 
-Aion 2
-
-The First Descendant
+**The First Descendant**
 
 > #### Stellar Blade Julkaistiin Switch 2 konsolille
 

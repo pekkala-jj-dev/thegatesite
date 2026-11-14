@@ -14,14 +14,14 @@ const Layout = () => {
   return (
     <>
       <div style={{ display: "flex", minHeight: "100vh" }}>
-        <main style={{ padding: "20px", width: "100%"}}>
+        <main style={{ paddingLeft: "9px", paddingRight: "9px" , paddingTop : "2px" ,width: "100%"}}>
           <div>
             <Navbar />
             <Outlet />
           </div>
         </main>
 
-        <Sidebar />
+        {/* <Sidebar /> */}
       </div>
     </>
   );
