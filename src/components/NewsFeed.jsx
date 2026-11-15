@@ -1,6 +1,7 @@
 import ReactMarkdown from "react-markdown";
 import { Link } from "react-router-dom";
 import etusivuMd from "../content/otsikot.md?raw";
+import "../App.css"
 
 const NewsFeed = () => {
 
