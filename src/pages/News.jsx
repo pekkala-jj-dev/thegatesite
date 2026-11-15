@@ -3,6 +3,7 @@ import ReactMarkdown from "react-markdown";
 import { useParams, Link } from "react-router-dom";
 import artikkelitMd from "../content/artikkelit.md?raw";
 import "../App.css"
+import "../styles/artikkelien.css"
 
 const News = () => {
   const { articleId } = useParams();
@@ -33,15 +34,15 @@ const News = () => {
   const currentArticle = articles.find((art) => art.id === targetId);
 
   return (
-    <div className="news-layout">
-      <main className="news-content">
+    <div>
+      <main>
         {currentArticle ? (
-          <article className="news-section">
+          <article className="gaming-articles1">
 
             <ReactMarkdown>{currentArticle.content}</ReactMarkdown>
           </article>
         ) : (
-          <div className="news-section">
+          <div>
             <h2>Artikkelia ei löytynyt!</h2>
             <p>Tunnisteella "{articleId}" ei löydetty uutista.</p>
             <Link to="/news">Palaa uusimpaan uutiseen</Link>
@@ -49,11 +50,11 @@ const News = () => {
         )}
       </main>
 
-      <aside className="news-sidebar">
+      <aside>
 
-        {/* Voidaaan ottaa käyttöön jos haluaa näyttää muut linkit tai vaihtoehtoisia esim liittyviä linkkejä*/}
+        {/* Voidaaan ottaa käyttöön jos haluaa näyttää muut linkit tai vaihtoehtoisia esim liittyviä linkkejä */}
 
-        <h3>Kaikki artikkelit</h3>
+        <h3>Lisää artikkeleita</h3>
         <ul>
           {articles.map((art) => (
             <li key={art.id}>
@@ -67,7 +68,7 @@ const News = () => {
               </Link>
             </li>
           ))}
-        </ul>
+        </ul> 
       </aside>
     </div>
   );

@@ -4,6 +4,12 @@
 ## Uutiset
 
 &nbsp;
+> #### 25 alkuperäistä XBOX peliä on lisätty taaksepäin yhteensopivaksi
+
+Microsoft on laajentanut taaksepäin yhteensopivien XBOX pelien kirjastoa (Backwards Compatibility)
+
+[Katso täältä koko juttu](/News/xboxbackwardscomp)
+
 
 > #### Phantom Blade Zero on julkaistu
 
